@@ -1,0 +1,204 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-9i8 {
+  width: 100%;
+  height: 204.5rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.desktop-1-9i8 .image-1-kT2 {
+  width: 144.7479rem;
+  height: 205.3497rem;
+  position: absolute;
+  left: 0;
+  top: 0.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-9i8 .rectangle-1-rFA {
+  width: 37.5rem;
+  height: 42.1rem;
+  position: absolute;
+  left: 99.7rem;
+  top: 36.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-9i8 .hey-there-my-name-is-sameer-ul-rahman-and-im-a-ui-ux-designer-designer-student-developer-Mxc {
+  width: 75.9rem;
+  height: 44.2rem;
+  position: absolute;
+  left: 10.25rem;
+  top: 36.3rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-9i8 .hey-there-my-name-is-sameer-ul-rahman-and-im-a-ui-ux-designer-designer-student-developer-Mxc .hey-there-my-name-is-sameer-ul-rahman-and-im-a-ui-ux-designer-designer-student-developer-Mxc-sub-0 {
+}
+.desktop-1-9i8 .hey-there-my-name-is-sameer-ul-rahman-and-im-a-ui-ux-designer-designer-student-developer-Mxc .hey-there-my-name-is-sameer-ul-rahman-and-im-a-ui-ux-designer-designer-student-developer-Mxc-sub-1 {
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-9i8 .hey-there-my-name-is-sameer-ul-rahman-and-im-a-ui-ux-designer-designer-student-developer-Mxc .hey-there-my-name-is-sameer-ul-rahman-and-im-a-ui-ux-designer-designer-student-developer-Mxc-sub-2 {
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-9i8 .rectangle-2-ES4 {
+  width: 15rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 19.5rem;
+  top: 8.5rem;
+  background-color: rgba(202, 247, 247, 0.5799999833);
+  border-radius: 0 5rem 0 5rem;
+}
+.desktop-1-9i8 .rectangle-3-SgY {
+  width: 16.2rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 82rem;
+  top: 9.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0 5rem 0 5rem;
+}
+.desktop-1-9i8 .rectangle-4-xet {
+  width: 15rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 61.9rem;
+  top: 8.5rem;
+  background-color: rgba(202, 247, 247, 0.5799999833);
+  border-radius: 0 5rem 0 5rem;
+}
+.desktop-1-9i8 .rectangle-5-Gfa {
+  width: 15rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 40.7rem;
+  top: 8.5rem;
+  background-color: rgba(202, 247, 247, 0.5799999833);
+  border-radius: 0 5rem 0 5rem;
+}
+.desktop-1-9i8 .home-C3S {
+  width: 7.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 23.4rem;
+  top: 10.4rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-9i8 .about-hVz {
+  width: 8.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 43.9rem;
+  top: 10.4rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-9i8 .work-cN4 {
+  width: 7.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 64.7rem;
+  top: 10.4rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-9i8 .contact-urx {
+  width: 11.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.2rem;
+  top: 11rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-9i8 .about-me-i-am-a-creative-designer-and-developer-who-aims-to-work-with-small-businesses-and-marginalized-communities-to-bring-their-passions-to-life-i-offer-both-design-and-development-services-of-web-applications-or-websites-dY4 {
+  width: 67.5rem;
+  height: 31.1rem;
+  position: absolute;
+  left: 68.2rem;
+  top: 142.7rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-9i8 .about-me-i-am-a-creative-designer-and-developer-who-aims-to-work-with-small-businesses-and-marginalized-communities-to-bring-their-passions-to-life-i-offer-both-design-and-development-services-of-web-applications-or-websites-dY4 .about-me-i-am-a-creative-designer-and-developer-who-aims-to-work-with-small-businesses-and-marginalized-communities-to-bring-their-passions-to-life-i-offer-both-design-and-development-services-of-web-applications-or-websites-dY4-sub-0 {
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-9i8 .about-me-i-am-a-creative-designer-and-developer-who-aims-to-work-with-small-businesses-and-marginalized-communities-to-bring-their-passions-to-life-i-offer-both-design-and-development-services-of-web-applications-or-websites-dY4 .about-me-i-am-a-creative-designer-and-developer-who-aims-to-work-with-small-businesses-and-marginalized-communities-to-bring-their-passions-to-life-i-offer-both-design-and-development-services-of-web-applications-or-websites-dY4-sub-1 {
+}
+.desktop-1-9i8 .rectangle-6-r3S {
+  width: 54.5rem;
+  height: 56.3rem;
+  position: absolute;
+  left: 9.8rem;
+  top: 124.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 36rem;
+}
